@@ -69,7 +69,7 @@
 
 **本仓库只做产品介绍与演示，不包含任何程序文件。**
 
-「追光超级爆款」**源码出售**。需要的话，扫码进群咨询，具体事宜群里聊。
+「追光超级爆款」**源码百元出售**。需要的话，扫码进群咨询。
 
 源码与相关文件不会上传到公开仓库；在线站点仅用于功能展示。
 
@@ -87,17 +87,13 @@
 
 </div>
 
-不方便扫码也可以直接加微信：**hgb2512**
+
 
 ---
 
 ## 追光系列其他产品
 
-| 产品 | 定位 | 在线体验 |
-| --- | --- | --- |
-| 追光超级爆款 | 视频 / 图片 / 数字人一站式生成 | [打开](https://zgz.wazgz.com/) |
-| [追光 IP 视频智能体](https://github.com/zhuiguangAI/zhuiguang-ip-shipin-zhinengti) | IP 内容运营、剪辑混剪、多平台发布 | [打开](https://ip.wazgz.com/) |
-| [追光作图智能体](https://github.com/zhuiguangAI/zhuiguang-zuotu-zhinengti) | 电商与营销场景的智能出图 | [打开](https://zt.wazgz.com/) |
+追光软件中心打开飞书：https://ccnyxpyeyoo5.feishu.cn/wiki/EY4cw17LRiN0JBkQjnkcZxBOnVg?from=from_copylink
 
 ---
 
@@ -109,6 +105,5 @@
 
 <div align="center">
 
-<sub>苏ICP备2026009170号 · 本仓库仅作产品介绍与演示入口，不含源代码</sub>
 
 </div>
